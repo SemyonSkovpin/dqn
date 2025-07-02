@@ -10,7 +10,7 @@ import pygame
 # --- Parameters ---
 env_name = 'LunarLander-v3'
 gravity = -10
-main_net_path = 'main_net.pth'
+main_net_path = '../main_net.pth'
 reload_interval = 10  # seconds between reloads of the policy
 
 # --- Pygame setup for displaying return ---
